@@ -1,0 +1,4 @@
+analysis_level,id,num_nodes,num_edges,num_communities,modularity
+global_graph,combined,4039,88234,16,0.8349446142535233
+ego_network,0,334,2852,9,0.43079098302610896
+ego_network,107,1035,27783,6,0.5261273718247481
