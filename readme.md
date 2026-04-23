@@ -73,18 +73,15 @@ projet_IA/
 
 
 Modèles classiques testés
-Logistic Regression
-Random Forest
-Gradient Boosting
+
+  Logistic Regression
+  Random Forest
+  Gradient Boosting
+
 Modèle neuronal testé
-GraphSAGE avancé
-features de nœuds
-features de paire
-décodeur MLP
-hard negative sampling
-Résultats finaux
-Modèle	F1-score	AUC
-Logistic Regression	0.9704	0.9955
-Random Forest	0.9787	0.9969
-Gradient Boosting	0.9734	0.9967
-GraphSAGE avancé	0.9745	0.9960
+
+  GraphSAGE avancé
+    features de nœuds
+    features de paire
+    décodeur MLP
+    hard negative sampling
